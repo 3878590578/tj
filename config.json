@@ -15,11 +15,7 @@
       ],
       "transport": {
         "type": "ws",
-        "path": "/vless"
-      },
-      "fallback": {
-        "server": "127.0.0.1",
-        "server_port": 80
+        "path": "/awei666"
       }
     }
   ],
